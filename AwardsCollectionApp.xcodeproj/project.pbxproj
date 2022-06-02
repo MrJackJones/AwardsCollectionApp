@@ -340,7 +340,7 @@
 				DEVELOPMENT_TEAM = GBTTU32HS2;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = AwardsCollectionApp/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -362,7 +362,7 @@
 				DEVELOPMENT_TEAM = GBTTU32HS2;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = AwardsCollectionApp/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
